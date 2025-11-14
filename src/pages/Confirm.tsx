@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import React from "react";
 
 // ✅ Cấu hình endpoint backend
-const API_BASE = "https://ee3c706d8c00.ngrok-free.app";
+const API_BASE = "https://4b322ee42911.ngrok-free.app";
 const ENDPOINT = `${API_BASE}/api/webhook/fecredit`;
 
 // ✅ Hàm chuẩn hóa dữ liệu: loại bỏ ký tự tiền tệ "VNĐ", "." v.v.
